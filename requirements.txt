@@ -8,3 +8,8 @@ nltk
 wordcloud
 scikit-learn
 gensim
+pynance
+yfinance
+TA-Lib
+plotly 
+PyPortfolioOpt
