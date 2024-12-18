@@ -1,3 +1,4 @@
 .venv/
 data/
+ta-lib/
 __pycache__/
